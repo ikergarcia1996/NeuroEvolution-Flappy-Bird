@@ -38,4 +38,4 @@ Documentation is available in the [releases section](https://github.com/ikergarc
 
 ## Flappy Bird Game
 The implementation of the Flappy Bird Game that we used for this project is based on this code:
-[Gamedevlapse: Create Flappy Bird in Python \[Time Lapse\] (youtube)] (https://youtu.be/h2Uhla6nLDU)
+[Gamedevlapse: Create Flappy Bird in Python \[Time Lapse\] (youtube)](https://youtu.be/h2Uhla6nLDU)
