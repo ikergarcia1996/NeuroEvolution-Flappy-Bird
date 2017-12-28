@@ -1,3 +1,4 @@
 # Flappy Bird: Human vs NEAT vs MLP
 
-![Demo](https://i.imgur.com/Fx8cfVA.gifv)
+![Demo](https://media.giphy.com/media/3o752jJ2MiqGr1cHXW/giphy.gif)
+
