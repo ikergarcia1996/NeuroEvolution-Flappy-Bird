@@ -22,7 +22,7 @@ For both, neuroevolution algorithm and multilayer perceptron the input is the sa
 In this project we probe that NEAT can improve the performance of a DNN. We found that NEAT can be useful to reduce the complexity of our models. NEAT is able to produce networks that produce similar results to the MLP but much less complex. We have been able to use NEAT to reduce the complexity of our model. We went from 20 neurons and 98 weights in the MLP to 7-8 neurons and 6-10 weights, with is a huge complexity reduction.
 
 
-![INPUT](https://github.com/ikergarcia1996/Flappy-Bird-NEAT-vs-DEEP/blob/master/DemoImages/Input.png?raw=true)
+![INPUT](https://github.com/ikergarcia1996/Flappy-Bird-NEAT-vs-DEEP/blob/master/DemoImages/comp.png?raw=true)
 
 ## Authors
 ```
