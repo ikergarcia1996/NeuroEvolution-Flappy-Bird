@@ -2,7 +2,11 @@
 The goal of the project is to apply NEAT to evolve the network architecture of Deep Neural Networks for improving their performance on a given classification task, in this case the game Flappy Bird, the goal is to determine if for a given input the bird must jump or no to avoid hitting the pipes.
 This repository contains a Jupyter Notebook where is possible to compare a Human, a Neat implementation and a multilayer perceptron playing Flappy Bird. 
 
+<p align="center">
+ 
 ![DEMO](https://github.com/ikergarcia1996/Flappy-Bird-NEAT-vs-DEEP/blob/master/DemoImages/ComparisonPlaying.gif?raw=true)
+
+</p>
 
 ## Input
 
@@ -13,8 +17,12 @@ For both, neuroevolution algorithm and multilayer perceptron the input is the sa
     3) Distance in the Y axis from the bird to the highest point of the pipe in the top
     4) Distance in the Y axis from the bird to the top of the map.
     5) Distance in the Y axis from the bird to the bottom of the map.
+    
+<p align="center">
 
-![INPUT](https://github.com/ikergarcia1996/Flappy-Bird-NEAT-vs-DEEP/blob/master/DemoImages/Input.png?raw=true)
+<img src="https://github.com/ikergarcia1996/Flappy-Bird-NEAT-vs-DEEP/blob/master/DemoImages/Input.png?raw=true" alt="INPUT" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="680" />
+
+</p>
 
 
 ## Results
